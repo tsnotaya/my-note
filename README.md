@@ -2,8 +2,7 @@
 
 <div align="center">
 
-**一个精致的、无干扰的 Windows 桌面便笺应用**
-支持毛玻璃特效、桌面嵌入、待办事项管理，让您的想法触手可及。
+Claude Code 和 Google Gemini 辅助创建的：一个精致的、无干扰的 Windows 桌面便笺应用，支持毛玻璃特效、桌面嵌入、待办事项管理，让您的想法触手可及。
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/Python-3.8+-yellow)
@@ -169,17 +168,17 @@ MyNote/
 ## ❓ 常见问题
 
 <details>
-<summary><b>Q: 为什么运行后窗口一片黑/不透明？</b></summary>
+<summary><b>Q1: 为什么运行后窗口一片黑/不透明？</b></summary>
 A: 毛玻璃特效依赖 Windows 的 DWM 服务。请确保您使用的是 Windows 10/11，并在系统设置中开启了透明效果。如果是 Windows 7，可能无法支持此特效。
 </details>
 
 <details>
-<summary><b>Q: 被杀毒软件报毒怎么办？</b></summary>
+<summary><b>Q2: 被杀毒软件报毒怎么办？</b></summary>
 A: 这是使用 PyInstaller 打包 Python 程序的常见误报。因为程序没有数字签名，且包含修改窗口样式的底层 API 调用。您可以将文件加入白名单，或直接运行 Python 源码。
 </details>
 
 <details>
-<summary><b>Q: 如何重置所有设置？</b></summary>
+<summary><b>Q3: 如何重置所有设置？</b></summary>
 A: 关闭程序，删除目录下的 `notes_data.json` 文件，重新启动即可。
 </details>
 
